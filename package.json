@@ -48,8 +48,8 @@
     "lodash": "^4.17.4",
     "query-string": "^6.11.1",
     "web3": "0.20.7",
-    "wyvern-js": "git+https://github.com/ProjectOpenSea/wyvern-js.git#v3.2.1",
-    "wyvern-schemas": "git+https://github.com/ProjectOpenSea/wyvern-schemas.git#v0.11.1"
+    "wyvern-js": "git+https://github.com/muteor/wyvern-js.git#master",
+    "wyvern-schemas": "git+https://github.com/muteor/wyvern-schemas.git#master"
   },
   "husky": {
     "hooks": {
